@@ -11,7 +11,7 @@
 		<servlet.api.version>3.1.0</servlet.api.version>
 		<activiti.version>5.18.0</activiti.version>
 		<hibernate.version>4.3.7.Final</hibernate.version>
-		<resteasy.version>3.0.13.Final</resteasy.version>
+		<resteasy.version>3.0.17.Final</resteasy.version>
 	</properties>
 	<!-- dependencies -->
 
@@ -315,25 +315,25 @@
 		<dependency>
 			<groupId>org.apache.cxf</groupId>
 			<artifactId>cxf-rt-frontend-jaxws</artifactId>
-			<version>3.1.4</version>
+			<version>3.4.10</version>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.cxf</groupId>
 			<artifactId>cxf-rt-transports-http</artifactId>
-			<version>3.1.4</version>
+			<version>3.4.10</version>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.cxf</groupId>
 			<artifactId>cxf-rt-bindings-soap</artifactId>
-			<version>3.1.4</version>
+			<version>3.4.10</version>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.cxf</groupId>
 			<artifactId>cxf-rt-rs-extension-providers</artifactId>
-			<version>3.1.4</version>
+			<version>3.4.10</version>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
