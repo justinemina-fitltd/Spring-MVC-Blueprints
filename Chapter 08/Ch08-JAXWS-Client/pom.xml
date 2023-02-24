@@ -204,7 +204,7 @@
 		<dependency>
 			<groupId>org.activiti</groupId>
 			<artifactId>activiti-rest</artifactId>
-			<version>5.17.0</version>
+			<version>5.23.0</version>
 		</dependency>
 
 		<dependency>
@@ -225,7 +225,7 @@
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-config</artifactId>
-			<version>4.0.2.RELEASE</version>
+			<version>5.5.7</version>
 		</dependency>
 
 		<dependency>
